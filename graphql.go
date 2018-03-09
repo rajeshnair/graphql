@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/shurcooL/go/ctxhttp"
+	"github.com/rajeshnair/go/ctxhttp"
 	"github.com/shurcooL/graphql/internal/jsonutil"
 )
 
